@@ -5,5 +5,5 @@ helper_id = 0
 ##### upload_file.py config #####
 api_id = 0
 api_hash = '45b52a5afaff024023817a2827b6d077'
-name = 'name'
-bot_username = 'bot_username'
+name = 'InstaBot'
+bot_username = 'instasaveru_bot'
