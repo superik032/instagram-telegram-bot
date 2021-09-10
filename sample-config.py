@@ -1,4 +1,4 @@
-TOKEN = '1942590259:AAEPrd-ty7l8Q0dCOjUlGP8SkLpoiFDHqik'
+TOKEN = '1911181922:AAGzr7hwPlqPb4vCTaTTEES0JhD44_gv7FE'
 admin_id = 0
 helper_id = 0
 
